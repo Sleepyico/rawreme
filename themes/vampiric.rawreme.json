@@ -308,12 +308,12 @@
 		"terminalCursor.foreground": "#A183C0",
 
 		// Git VSCode colors
-		"gitDecoration.modifiedResourceForeground": "#80bfffb3",
+		"gitDecoration.modifiedResourceForeground": "#97da97b3",
 		"gitDecoration.deletedResourceForeground": "#f27983b3",
-		"gitDecoration.untrackedResourceForeground": "#abeb95b3",
-		"gitDecoration.ignoredResourceForeground": "#9a8bb6",
+		"gitDecoration.untrackedResourceForeground": "#ac9acc",
+		"gitDecoration.ignoredResourceForeground": "#c0bdc5f3",
 		"gitDecoration.conflictingResourceForeground": "#bada55",
-		"gitDecoration.submoduleResourceForeground": "#d8c9e7b3",
+		"gitDecoration.submoduleResourceForeground": "#d8c9e7c7",
 
 		// Text colors
 		"textBlockQuote.background": "#211c2b",
@@ -327,7 +327,7 @@
 		// Title Bar
 		"titleBar.activeBackground": "#181818",
 		"titleBar.activeForeground": "#aaa8ad",
-		"titleBar.inactiveBackground": "#2c2c2c",
+		"titleBar.inactiveBackground": "#1f1f1f",
 		"titleBar.inactiveForeground": "#7e7f81",
 		"titleBar.border": "#69538066",
 		"welcomePage.tileBackground": "#1F1F1F",
@@ -405,7 +405,7 @@
 			"name": "[Entity] — The main Entity color",
 			"scope": "entity",
 			"settings": {
-				"foreground": "#b498d8"
+				"foreground": "#58c497"
 			}
 		},
 		{

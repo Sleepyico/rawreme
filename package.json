@@ -2,13 +2,13 @@
   "name": "rawreme",
   "displayName": "Rawreme",
   "description": "Unique Themes for your vscode editor. Be eccentric now and use these shades of purple.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Iconical",
   "icon": "images/rawreme.png",
   "license": "LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/babyico/rawreme"
+    "url": "https://github.com/babyico/rawreme.git"
   },
   "engines": {
     "vscode": "^1.86.0"
@@ -19,9 +19,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Rawreme",
+        "label": "Vampiric (BETA) · Rawreme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Rawreme-color-theme.json"
+        "path": "./themes/vampiric.rawreme.json"
+      },
+      {
+        "label": "Angelic (BETA) · Rawreme",
+        "uiTheme": "vs",
+        "path": "./themes/angelic.rawreme.json"
       }
     ]
   }
