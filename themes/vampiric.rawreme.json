@@ -435,7 +435,8 @@
 			"settings": {
 				"foreground": "#d83c39f5"
 			}
-		},{
+		},
+		{
 			"name": "[Meta Brace] — The main color for Meta Brace",
 			"scope": [
 				"meta.brace",
@@ -796,6 +797,59 @@
 			"scope": "meta.object-literal.key.js",
 			"settings": {
 				"foreground": "#85d3a9"
+			}
+		},
+		{
+			"name": "[DOTFILES]",
+			"scope": [
+				"string.quoted.single.ini",
+				"source.ini"
+		],
+			"settings": {
+				"foreground": "#a8d385"
+			}
+		},
+		{
+			"name": "[C/CPP] - Source",
+			"scope": [
+				"source.c",
+				"source.cpp"
+			],
+			"settings": {
+				"foreground": "#a88cdbde"
+			}
+		},
+		{
+			"name": "[C/CPP] - Source",
+			"scope": [
+				"meta.preprocessor.include.cpp",
+				"meta.body.function.definition.cpp",
+				"meta.preprocessor.include.c",
+				"meta.body.function.definition.c",
+				"keyword.control.directive.include.c",
+				"keyword.control.c",
+				"keyword.control.directive.include.cpp",
+				"keyword.control.cpp",
+				"keyword.control.return.cpp",
+				
+			],
+			"settings": {
+				"foreground": "#cc8ed1e8"
+			}
+		},
+		{
+			"name": "[C/CPP] - Source",
+			"scope": [
+				"entity.name.function.c",
+				"meta.function.definition.parameters.c",
+				"meta.function.c",
+				"entity.name.function.cpp",
+				"meta.function.definition.parameters.cpp",
+				"meta.function.cpp",
+				
+			],
+			"settings": {
+				"foreground": "#9fd375"
 			}
 		},
 // TODO LATER
