@@ -18,3 +18,14 @@ The ultimate theme for your vscode. Shades of purple that comfies the eyes and k
 ## Installation
 
 Just simply go to [Rawreme on VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Iconical.rawreme) and follow their installation guide and you should be good to go.
+
+## Preview
+
+<p>
+  <img src="images/preview_i.png" />
+ <p>
+   <img src="images/preview_iii.png" />
+  <img src="images/preview_iv.png" />
+ </p>
+  <img src="images/preview_ii.png" />
+</p>
