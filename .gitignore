@@ -1,6 +1,3 @@
 node_modules
 *.vsix
-/test
-test
-./test
 vsc-extension-quickstart.md
