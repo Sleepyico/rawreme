@@ -573,9 +573,23 @@
 		},
 		{
 			"name": "[CSS] - Color for ID Selector",
-			"scope": ["entity.other.attribute-name.id.css", "entity.other.attribute-name.pseudo-class.css"],
+			"scope": ["entity.other.attribute-name.id.css", 
+			"entity.other.attribute-name.pseudo-class.css", 
+			"entity.other.attribute-name.pseudo-class.hover.css",
+			"entity.other.attribute-name.pseudo-class.after.css",
+			"meta.selector.pseudo-class.css"],
 			"settings": {
 				"foreground": "#9ad6acfa"
+			}
+		},
+		{
+			"name": "[CSS] - Color for Selector",
+			"scope": [
+				"entity.other.attribute-name.pseudo-element.hover.css",
+				"entity.other.attribute-name.pseudo-element.after.css",
+			],
+			"settings": {
+				"foreground": "#71c289"
 			}
 		},
 		{
